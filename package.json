@@ -1,0 +1,15 @@
+{
+  "name": "natural-language",
+  "version": "1.0.0",
+  "description": "natural language",
+  "main": "cloud-nlp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ndjson": "^1.5.0",
+    "request": "^2.81.0"
+  }
+}
